@@ -1,2 +1,3 @@
 # KG2Text
 KG--->Text
+We will be released the pre-trained models and code soon....
